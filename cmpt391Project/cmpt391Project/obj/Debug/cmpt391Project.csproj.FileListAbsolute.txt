@@ -1,0 +1,14 @@
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\bin\Debug\cmpt391Project.exe.config
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\bin\Debug\cmpt391Project.exe
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\bin\Debug\cmpt391Project.pdb
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\bin\Debug\Dapper.dll
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\bin\Debug\Dapper.xml
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.csprojAssemblyReference.cache
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.Form1.resources
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.Properties.Resources.resources
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.csproj.GenerateResource.cache
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.csproj.CoreCompileInputs.cache
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.csproj.CopyComplete
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.exe
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.pdb
+C:\Users\Graham\source\repos\cmpt391Project\cmpt391Project\obj\Debug\cmpt391Project.InstructorScreen.resources
